@@ -43,5 +43,5 @@ class Account:
     def todo(self):
         pass
 
-account = Account(api_hash, api_id, command_chat_id)
-account.start()
+#account = Account(api_hash, api_id, command_chat_id)
+#account.start()
